@@ -100,4 +100,4 @@ Once the application is running, it can be tested using a command similar to the
 
 If the message is sent, the response should be `Sent <hello>`.
 
-The sent messages can be monitored conveniently by using the *kafka-client-sender* application.
+The sent messages can be monitored conveniently by using the *kafka-client-receiver* application.
