@@ -98,6 +98,6 @@ Once the application is running, it can be tested using a command similar to the
 
     curl http://localhost:8080/api/send?message=hello
 
-If the message is sent, the response should be `Sent <hello>`.
+If the message is sent, the response should be `Sent [hello]`.
 
 The sent messages can be monitored conveniently by using the *kafka-client-receiver* application.
